@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Overview suite">
+    <listeners>
+        <listener class-name="Listeners.iTestResultListenerClass"/>
+        <listener class-name="Listeners.iInvokedMethodListenerClass"/>
+    </listeners>
+    <test name="Overview test">
+
+        <classes>
+            <class name="Tests.TC05_Overview"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Landingpage suite">
+    <listeners>
+        <listener class-name="Listeners.iTestResultListenerClass"/>
+        <listener class-name="Listeners.iInvokedMethodListenerClass"/>
+    </listeners>
+    <test name="AddProducts test">
+
+        <classes>
+            <class name="Tests.TC02_AddProducts"/>
+        </classes>
+    </test>
+</suite>

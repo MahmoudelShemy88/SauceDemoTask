@@ -1,0 +1,26 @@
+[INFO] 07-03-2025 13:00:48 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:26)] - Edge driver is opened
+[INFO] 07-03-2025 13:00:54 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:28)] - Page is Redirect to URL
+[INFO] 07-03-2025 13:00:54 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCasevalidLoginTCStarted
+[INFO] 07-03-2025 13:00:54 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCasevalidLoginTCStarted
+[INFO] 07-03-2025 13:00:55 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCasevalidLoginTCpassed
+[INFO] 07-03-2025 13:00:55 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCasevalidLoginTCpassed
+[INFO] 07-03-2025 13:01:08 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseTestcase2Started
+[INFO] 07-03-2025 13:01:08 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseTestcase2Started
+[INFO] 07-03-2025 13:01:10 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseTestcase2passed
+[INFO] 07-03-2025 13:01:10 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseTestcase2passed
+[INFO] 07-03-2025 13:01:24 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:24 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:26 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:01:26 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:01:39 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:39 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:41 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:01:41 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:01:50 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:50 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:01:52 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:01:52 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:02:04 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:02:04 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:11)] - TestCaseVerifycartitemsandPricesStarted
+[INFO] 07-03-2025 13:02:07 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed
+[INFO] 07-03-2025 13:02:07 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:16)] - TestCaseVerifycartitemsandPricespassed

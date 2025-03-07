@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Checkout suite">
+    <listeners>
+        <listener class-name="Listeners.iTestResultListenerClass"/>
+        <listener class-name="Listeners.iInvokedMethodListenerClass"/>
+    </listeners>
+    <test name="FillFields test">
+
+        <classes>
+            <class name="Tests.TC04_FillCheckoutPage"/>
+        </classes>
+    </test>
+</suite>
